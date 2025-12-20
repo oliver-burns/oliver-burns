@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Oliver 👋
 
-<!--
-**oliver-burns/oliver-burns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Engineer | Learning C++, C#, Python | Exploring projects and Git
 
-Here are some ideas to get you started:
+## Skills
+- C++, Python
+- Git & GitHub
+- Console apps, basic algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- [To-Do List](link) - C++ console app with add/remove/view tasks
+- [Binary Converter](link) - C++ console program to convert decimal/binary
+- [C# Projects](link) - Small beginner projects
+
+## GitHub Stats
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=oliver-burns&theme=dark)
