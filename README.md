@@ -1,17 +1,21 @@
-# Hi, I'm Oliver 👋
+# 👋 Hi, I'm Oliver
 
-Aspiring Software Engineer | Learning C++ & Python | Exploring projects and Git
+## 🔹 About Me
+- Aspiring Cybersecurity Engineer | Blue Team Focus
+- Passionate about network defense, incident response, and ethical hacking
+- Currently building my home lab with Kali and Ubuntu VMs
 
-## Skills
-- C++
-- Python
-- Git & GitHub
-- Console applications & algorithms
+## 🛠️ Skills
+- Networking: TCP/IP, ICMP, DHCP
+- Linux: Kali, Ubuntu
+- Tools: Wireshark, Nmap, UFW, tcpdump
+- Version Control: Git, GitHub
+- Programming: Python, Bash scripting
 
-## Featured Projects
-- [To-Do List](https://github.com/oliver-burns/To-Do-List) - C++ console app with add/remove/view tasks
-- [Binary Converter](https://github.com/oliver-burns/Binary-Hex-Converter) - C++ console program to convert decimal/binary
-- [Simple Calculator](https://github.com/oliver-burns/Cpp-Simple-Calc) - C++ simple terminal calculator
+## 📂 Projects
+- **Blue Team Lab**: Captured and analyzed ICMP and Nmap traffic in a virtual lab  
+- **Calculator & To-Do Apps**: C++ projects demonstrating problem-solving  
+- [More projects coming soon…]
 
-## GitHub Stats
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=oliver-burns&theme=dark)
+## 📈 GitHub Stats
+![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliver-burns&show_icons=true&hide_border=true)
