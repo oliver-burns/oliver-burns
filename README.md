@@ -25,6 +25,7 @@ Currently building my skills in network analysis, traffic monitoring, and attack
 - Isolated lab with Kali (attacker) and Ubuntu (defender)
 - Captured ICMP & Nmap traffic using Wireshark
 - Detected network reconnaissance and firewall logs
+- Analysed authentication logs
 - [Repo link coming soon / update with screenshots and notes]
 
 ### C++ Projects
