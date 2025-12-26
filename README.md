@@ -33,10 +33,5 @@ Currently building my skills in network analysis, traffic monitoring, and attack
 - Binary Converter
 - To-Do List app
 
----
-
-## 📈 GitHub Stats
-
-[![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=blue)
 
 
