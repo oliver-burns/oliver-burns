@@ -37,6 +37,6 @@ Currently building my skills in network analysis, traffic monitoring, and attack
 
 ## 📈 GitHub Stats
 
-![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliver-burns&show_icons=true&hide_border=true)
+![Oliver's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliver-burns&show_icons=true&theme=blue)
 
 
