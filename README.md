@@ -1,37 +1,59 @@
-# 👋 Hi, I'm Oliver Burns
+# Hi, I'm Oliver
 
-## 🔹 About Me
-Aspiring Cybersecurity Engineer | Blue Team Enthusiast | Home Lab Builder | Linux & Network Security  
-Currently building my skills in network analysis, traffic monitoring, and attack detection using a virtual lab setup.
+I'm a student with a strong interest in **Site Reliability Engineering** and how large-scale systems stay reliable, observable, and efficient.
 
----
-
-## 🛠️ Skills & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali-Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-039BE5?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-FF0000?style=for-the-badge&logo=nmap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Right now, I'm focused on building solid fundamentals in systems, networking, and automation, and learning by experimenting, breaking things, and fixing them.
 
 ---
 
-## 📂 Projects
+## What I'm Learning
 
-### Blue Team Lab
-- Isolated lab with Kali (attacker) and Ubuntu (defender)
-- Captured ICMP & Nmap traffic using Wireshark
-- Detected network reconnaissance and firewall logs
-- Analysed authentication logs
-- [Repo link coming soon / update with screenshots and notes]
+- Linux fundamentals (processes, filesystems, permissions)
+- Basic networking (TCP/IP, DNS, HTTP)
+- Bash and Python for automation
+- Git and version control workflows
+- Monitoring concepts (metrics, logs, alerts)
 
-### C++ Projects
-- Simple Calculator
-- Binary Converter
-- To-Do List app
+---
 
+## Projects & Practice
 
+Most of my repositories are small experiments or learning projects, such as:
+
+- Scripts to automate system tasks
+- Simple monitoring or logging experiments
+- Notes and examples from things I’m studying
+- Practice projects based on real-world SRE concepts
+- Random Projects
+
+I focus on understanding *why* things work, not just making them work.
+
+---
+
+## Interests
+
+- Reliability and uptime
+- Debugging and incident analysis
+- Infrastructure and backend systems
+- How failures happen in distributed systems
+
+---
+
+## Goals
+
+- Build strong systems fundamentals before jumping into complex tools
+- Learn from real-world SRE practices and postmortems
+- Contribute to open-source projects in the future
+
+---
+
+## Currently Reading / Learning From
+
+- Engineering blogs (Google SRE, Netflix, Cloudflare)
+- Linux and networking documentation
+- Open-source projects and their issue discussions
+
+---
+
+Thanks for checking out my profile.
 
