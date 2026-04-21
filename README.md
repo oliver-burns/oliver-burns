@@ -6,5 +6,3 @@ This GitHub is mostly for learning and documenting things as I go.
 
 [My TryHackMe Profile](https://tryhackme.com/p/sublimeroom)
 
-## HackTheBox
-[My HTB Profile}(https://profile.hackthebox.com/)
