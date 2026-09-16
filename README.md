@@ -1,6 +1,6 @@
 <div align = "justify">
   <a href = "#">
-    <img src="https://komarev.com/ghpvc/?username=saatvik333&color=4c566a&style=for-the-badge">
+    <img src="https://github.com/oliver-burns">
   </a>
 </div>
 
