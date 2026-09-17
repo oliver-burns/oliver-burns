@@ -14,7 +14,7 @@
 ### core skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,c,,docker,git,&theme=dark" alt="core skills" />
+  <img src="https://skillicons.dev/icons?i=py,c,docker,git,&theme=dark" alt="core skills" />
 </p>
 
 - **languages**: Python • C
