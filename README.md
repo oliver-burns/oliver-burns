@@ -20,6 +20,8 @@
 - **Languages**: Python • C
 - **Tools**: Git • Docker • Linux
 
+---
+
 ### Activity
 
 <p align="center">
