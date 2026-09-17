@@ -4,16 +4,18 @@
   <img alt="github-snake" src="github-contribution-grid-snake.svg" />
 </picture>
 
-#### **Learning:**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
+### About
+15 year old low-level systems engineer, linxu enthusiast, ai is pretty cool.
 
-#### **Description:**
-<> Hey I am Oliver, I'm hoping to be a low-level engineer in the future :)
+✉️ [oliver.harry.burns@gmail.com](mailto:oliver.harry.burns@gmail.com)
 
-<> I use Gentoo btw :o
+---
 
-#### **Projects:**
-<> Hopefully making a website soon
+### core skills
 
-<> Learn C!!!
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,c,,docker,git,&theme=dark" alt="core skills" />
+</p>
+
+- **languages**: Python • C
+- **tools & hardware**: Git • Docker • Linux
