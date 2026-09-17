@@ -20,7 +20,7 @@
 - **Languages**: Python • C
 - **Tools**: Git • Docker • Linux
 
-### activity
+### Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oliver-burns&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
