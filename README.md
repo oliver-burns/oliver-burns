@@ -11,11 +11,11 @@
 
 ---
 
-### core skills
+### Core skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,c,docker,git,&theme=dark" alt="core skills" />
 </p>
 
-- **languages**: Python • C
-- **tools & hardware**: Git • Docker • Linux
+- **Languages**: Python • C
+- **Tools**: Git • Docker • Linux
